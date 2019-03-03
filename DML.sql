@@ -33,7 +33,7 @@ Insert into GAMETRACE.RANK (RANKNAME,RANKH,RANKID) values ('Master',100,7);
 Insert into GAMETRACE.RANK (RANKNAME,RANKH,RANKID) values ('Grandmaster',200,8);
 Insert into GAMETRACE.RANK (RANKNAME,RANKH,RANKID) values ('Elder',500,9);
 /
-Insert into GAMETRACE.GT_USER (UNAME,PWORD,UDATE,USERUT,UEMAIL,UAVAT) values ('Admin','Admin',to_date('25-JUL-17','DD-MON-RR'),0,'ducaradisavljevic2@gmail.com','../../data/users/Admin.jpg');
+Insert into GAMETRACE.GT_USER (UNAME,PWORD,UDATE,USERUT,UEMAIL,UAVAT) values ('Admin','c1c224b03cd9bc7b6a86d77f5dace40191766c485cd55dc48caf9ac873335d6f',to_date('25-JUL-17','DD-MON-RR'),0,'ducaradisavljevic2@gmail.com','../../data/users/Admin.jpg');
 /
 Insert into GAMETRACE.GENRE (GNRNAME,GNRID) values ('Real Time Tactics',37);
 Insert into GAMETRACE.GENRE (GNRNAME,GNRID) values ('Tactical Role Playing Game',38);
